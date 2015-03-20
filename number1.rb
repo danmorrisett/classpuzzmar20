@@ -1,3 +1,5 @@
+puts "Worlds best tournament:"
+puts ''
 puts "enter teams"
 teams = gets.chomp
 team_names = teams.split(", ")
